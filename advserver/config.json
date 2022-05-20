@@ -1,0 +1,4 @@
+{
+    "Dirs" : ["certs"],
+    "Args" : ["-host=grulish","-srvcert=certs/grulish.crt","-cacert=certs/UnikernelCA.crt","-srvkey=certs/grulish.key","-port=8443","-certopt=4"]
+}

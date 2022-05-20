@@ -1,0 +1,4 @@
+{
+    "Dirs" : ["certs"],
+    "Args" : ["-srvhost=grulish","-clientcert=certs/ciccio.crt","-cacert=certs/UnikernelCA.crt","-clientkey=certs/ciccio.key","-port=8443","-dnsserver=192.168.8.118:53"]
+}
