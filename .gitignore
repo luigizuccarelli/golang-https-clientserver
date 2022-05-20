@@ -1,6 +1,8 @@
 .history
 
-adserver/certs/
-adserver/server
+advserver/certs
+advserver/server
 
-client/certs/
+client/certs
+client/client
+client/hello
