@@ -2,7 +2,7 @@
 
 ## Overview 
 
-The client and server usewd to create unikernels for a simple secure tls connection and verification (based on certstrap)
+The client and server used to create unikernels for a simple secure tls connection and verification (based on certstrap)
 
 I have included a config file for both the client and server when creating the ops image (unikernel)
 
